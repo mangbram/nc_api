@@ -2,91 +2,91 @@
   {
     "id": 1,
     "nama": "Orkestra",
-    "deskripsi": "Lorem",
+    "deskripsi": "UKM orkestra “Symphoni Praditya Wiratama” merupakan UKM wajib yang secara langsung dibawahi oleh LP2M. secara kepengurusan organisasi ini langsung dipertanggungjawabkan oleh LP2M. orkestra sendiri sudah banyak mendapat jam terbang untuk menghadiri acara acara penting mentri pertahanan Indonesia yang dihadiri oleh panglima tinggi dari Indonesia maupun luar negri",
     "url": "https://ik.imagekit.io/naracreativeimg/naracreativeimage/logo_padus.png?ik-sdk-version=javascript-1.4.3&updatedAt=1670823330992"
   },
   {
     "id": 2,
     "nama": "Drum Band",
-    "deskripsi": "Lorem",
+    "deskripsi": "UKM drum band “Canka Praditya Wiratama” merupakan UKM wajib yang dapat diikuti kadet mahasiswa tingkat 2 dan tingkat 3. UKM ini dibawahi oleh 6 penatarama dan memiliki 7 jenis alat music yang dimainkan",
     "url": "https://ik.imagekit.io/naracreativeimg/naracreativeimage/logo_padus.png?ik-sdk-version=javascript-1.4.3&updatedAt=1670823330992"
   },
   {
     "id": 3,
     "nama": "Padus",
-    "deskripsi": "Lorem",
+    "deskripsi": "UKM paduan suara “Svara Nusantara” merupakan salat satu Unit Kegiatan Mahasiswa yang ikut menyumbang banyak prestasi untuk Universitas Pertahanan dengan megikuti perlombaan online maupun offline dan menjadi tamu di acara acara Menteri Pertahanan",
     "url": "https://ik.imagekit.io/naracreativeimg/naracreativeimage/logo_padus.png?ik-sdk-version=javascript-1.4.3&updatedAt=1670823330992"
   },
   {
     "id": 4,
     "nama": "Basket",
-    "deskripsi": "Lorem",
-    "url": "https://ik.imagekit.io/naracreativeimg/naracreativeimage/logo_futsal.png?ik-sdk-version=javascript-1.4.3&updatedAt=1670823332829"
+    "deskripsi": "UKM basket Universitas Pertahanan telah mengikuti berbagai perlombaan diantaranya Porsimaptar dan liga mahasiswa. anggota UKM ini dilatih oleh pelatih yang handal dan berpengalaman dari PMPP dengan porsi Latihan rutin seminggu sekali dan dua kali sehari pada pagi dan sore Ketika mendekati perlombaan",
+    "url": "https://ik.imagekit.io/naracreativeimg/naracreativeimage/logo_basket.png?ik-sdk-version=javascript-1.4.3&updatedAt=1670944337870"
   },
   {
     "id": 5,
     "nama": "Futsal",
-    "deskripsi": "Lorem",
+    "deskripsi": "Universitas Pertahanan memiliki tim futsal handal dengan prestasi sebagai finalis pada pekan olahraga mahasiswa dalam rangka dies natalies UNJ, hal ini membuktikan bahwa walaupun waktu dan kesempatan Latihan yang minim anggota tim dan pelatih dapat mencapai hasil yang cukup memuaskan",
     "url": "https://ik.imagekit.io/naracreativeimg/naracreativeimage/logo_futsal.png?ik-sdk-version=javascript-1.4.3&updatedAt=1670823332829"
   },
   {
     "id": 6,
     "nama": "Sepak Bola",
-    "deskripsi": "Lorem",
+    "deskripsi": "Universitas Pertahanan yang berasa dalam wilayah PMPP menyediakan banyak fasilitas olahraga, salah satunya lapangan sepak bola. Lapangan sepak bola yang dapat digunakan setiap saat sangat mendukung kegiatan anggota tim untuk berlatih dan melakukan pertandingan baik yang bersifat internal maupun eksternal",
     "url": "https://ik.imagekit.io/naracreativeimg/naracreativeimage/logo_futsal.png?ik-sdk-version=javascript-1.4.3&updatedAt=1670823332829"
   },
   {
     "id": 7,
     "nama": "Renang",
-    "deskripsi": "Lorem",
-    "url": "https://ik.imagekit.io/naracreativeimg/naracreativeimage/logo_futsal.png?ik-sdk-version=javascript-1.4.3&updatedAt=1670823332829"
+    "deskripsi": "Universitas Pertahanan yang berasa dalam wilayah PMPP menyediakan banyak fasilitas olahraga, salah satunya kolam renang. Dengan jadwal Latihan 2 kali seminggu dan 1 kali sehari Ketika mendekati perlombaan, UKM ini sudah meraih medali perunggu dalam kategori gaya bebas estafet",
+    "url": "https://ik.imagekit.io/naracreativeimg/naracreativeimage/logo_renang.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670944350291"
   },
   {
     "id": 8,
     "nama": "Atletik",
-    "deskripsi": "Lorem",
+    "deskripsi": "https://ik.imagekit.io/naracreativeimg/naracreativeimage/logo_atletik.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670944337640",
     "url": "https://ik.imagekit.io/naracreativeimg/naracreativeimage/logo_futsal.png?ik-sdk-version=javascript-1.4.3&updatedAt=1670823332829"
   },
   {
     "id": 9,
     "nama": "Riset dan Teknologi",
-    "deskripsi": "Lorem",
-    "url": "https://ik.imagekit.io/naracreativeimg/naracreativeimage/logo_padus.png?ik-sdk-version=javascript-1.4.3&updatedAt=1670823330992"
+    "deskripsi": "UKM riset dan teknologi “Defense Scientific Paper” yang identic dengan kegiatan akademik diharapkan mampu menciptakan kadet yang memiliki nilai kompeten, professional, dan kontributif sehingga dapat menciptakan suatu penelitian baru",
+    "url": "https://ik.imagekit.io/naracreativeimg/naracreativeimage/Logo_ristek.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670944350307"
   },
   {
     "id": 10,
-    "nama": "Hacking",
-    "deskripsi": "Lorem",
+    "nama": "Humas, Fotografi, dan Jurnalistik",
+    "deskripsi": "UKM humas, fotografi, dan jurnalistik “Nara Creative” didirikan untuk membantu kegiatan kegiatan mulai dari internal Universitas pertahanan hingga external seperti kegiatan kegiatan yang diadakan oleh mentri pertahanan",
     "url": "https://ik.imagekit.io/naracreativeimg/naracreativeimage/logo_padus.png?ik-sdk-version=javascript-1.4.3&updatedAt=1670823330992"
   },
   {
     "id": 11,
-    "nama": "Debat",
-    "deskripsi": "Lorem",
+    "nama": "Merpati Putih",
+    "deskripsi": "UKM debat sendiri dibagi menjadi 2 yaitu debat Bahasa Indonesia dan debat Bahasa inggris. UKM ini mewadahi kadet kadet mahasiswa yang memiliki jiwa bersaing yang kuat, public speaking yang bagus, dan pengetahuan umum yang luas",
     "url": "https://ik.imagekit.io/naracreativeimg/naracreativeimage/logo_padus.png?ik-sdk-version=javascript-1.4.3&updatedAt=1670823330992"
   },
   {
     "id": 12,
     "nama": "Robotik",
-    "deskripsi": "Lorem",
+    "deskripsi": "Dalam kegiatan rutin UKM robotic biasanya diadakan pertemuan untuk saling sharing ide antara sesama anggota ataupun langusng dilatih oleh dosen fisika dan teknik elektro. UKM ini sudah beberapa kali mengikuti kontes dan kejuaraan robot tingkat nasional",
     "url": "https://ik.imagekit.io/naracreativeimg/naracreativeimage/logo_padus.png?ik-sdk-version=javascript-1.4.3&updatedAt=1670823330992"
   },
   {
     "id": 13,
     "nama": "Seni Tari Tradisional",
-    "deskripsi": "Lorem",
+    "deskripsi": "UKM seni tari menjadi wadah bagi kadet yang memiliki bakat atau ketertarikan dalam seni tari. UKM Seni Tari yang beranggotakan kadet dari berbagai latar belakang budaya mengolah kekayaan seni tari dari berbagai daerah tersebut menjadi sebuah seni pertunjukan yang indah. Seringkali dalam momen-momen khusus seperti penyambutan tamu, pembukaan tahun ajaran, misi perutusan (missio canonica), ulang tahun sekolah, dll, diwarnai dengan pertunjukan seni tari dari UKM ini",
     "url": "https://ik.imagekit.io/naracreativeimg/naracreativeimage/logo_tari.png?ik-sdk-version=javascript-1.4.3&updatedAt=1670823552678"
   },
   {
     "id": 14,
     "nama": "Seni Tari Modern",
-    "deskripsi": "Lorem",
+    "deskripsi": "UKM seni tari modern mewadahi kreativitas kadet yang mahir dan gemar dalam membuat koreografi menarik untuk disatukan dalam suatu Gerakan tari modern. UKM ini sudah pernah meraih prestasi sebagai juara favorit dalam event pentas seni Universitas Indonesia",
     "url": "https://ik.imagekit.io/naracreativeimg/naracreativeimage/logo_tari.png?ik-sdk-version=javascript-1.4.3&updatedAt=1670823552678"
   },
   {
     "id": 15,
     "nama": "Kolintang",
-    "deskripsi": "Lorem",
-    "url": "https://ik.imagekit.io/naracreativeimg/naracreativeimage/logo_tari.png?ik-sdk-version=javascript-1.4.3&updatedAt=1670823552678"
+    "deskripsi": "UKM kulintang “Gala Sita” lahir karena kesadaran bahwa music adalah komponen yang tidak dapat diabaikan dalam unsur kehidupan. UKM ini didirikan beberapa senior yang peduli akan seni dan music. Salah satu proker internal adalah pelatihan kolintang yang dilakukan setiap seminggu sekali. Kegiatan Latihan ini difokuskan untuk meningkatkan kemampuan anggota dan tampil di ranah internasional",
+    "url": "https://ik.imagekit.io/naracreativeimg/naracreativeimage/logo_kolintang.png?ik-sdk-version=javascript-1.4.3&updatedAt=1670944350759"
   }
 ]
